@@ -1,0 +1,26 @@
+[
+  {
+    "front":"Who was the first president of the United States?",
+     "back":"george washington"
+
+  },
+  {
+     "front":"Who invented the telephone?",
+     "back":"bell"
+  },
+  {
+    "front":"What temperature does water boil at?",
+    "back":"100c"
+  },
+  {
+    "front":"Which planet is nearest the sun?",
+    "back":"mercury"
+
+  },
+  {
+    "front":"What language has the most words?",
+    "back":"english"
+  }
+  ]
+
+  
